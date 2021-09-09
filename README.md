@@ -7,3 +7,5 @@ It ables you  to identify the champion you need per
 - Their attribute : Fighter, Mage, Tank etc...
 
 When you launch the program it will ask you to choose different things to identify the champion you need and return a list of the best suited champions for you
+
+The position column will return the pourcentage of game played with the champion at this given position.
